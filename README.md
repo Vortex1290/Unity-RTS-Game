@@ -1,4 +1,4 @@
 # Unity-RTS-Game
-Game partially made with tutorials
-Still on progress
+Game partially made with tutorials,
+still on progress
 
